@@ -1,0 +1,156 @@
+@import 'common';
+@import 'reset';
+header{
+	>i{
+		position: absolute;
+		top:50%;
+		transform:translateY(-50%);
+	}
+	>.topgo{
+		left: 10px;
+	}
+	>i.toplist{
+		right: 10px;
+	}
+}
+
+article{
+	.fix{
+		width: 100%;
+		height: 48px;
+		position: fixed;
+		top:$gheight;
+		left: 0;
+		z-index: 3;
+		background-color: #eee;
+		line-height: 48px;
+		border-bottom: solid 1px #ccc;
+		>div{
+			position: relative;
+			line-height: 48px;
+			text-align: center;
+			font-size: 12px;
+			>i{
+				padding-left: 5px;
+			}
+		}
+		>div:not(.abc)::after{
+			display: block;
+			content: "";
+			width: 1px;
+			height: 30px;
+			background-color: black;
+			transform: scaleX(0.4);
+			position: absolute;
+			top:9px;
+			right: 0px;
+		}
+		
+	}
+
+	.classify{
+		position: absolute;
+		top:48px;
+		bottom: 0px;
+		left: 0px;
+		right: 0px;
+		background-color: white;
+		display: none;
+
+		.goods{
+			width: 100%;
+			height: 100%;
+			>div{
+				height: 100%;
+				padding: 0px;
+			}
+			>div:nth-child(1){
+				background-color: #eaeaea;
+				li{
+					line-height: 30px;
+					padding-left: 5px;
+					font-size: 12px;
+				}
+				li:first-child{
+					background-color: #f2f2f2;
+				}
+			}
+			>div:nth-child(2){
+				background-color: #f2f2f2;
+				li{
+					line-height: 30px;
+					padding-left: 5px;
+					font-size: 12px;
+				}
+				li:not(.first){
+					display: none;
+				}
+			}
+		}
+
+		.brand{
+			width: 100%;
+			height: 100%;
+			background-color: #eaeaea;
+			display: none;
+			ul>li{
+				line-height: 35px;
+				text-align: center;
+				font-size: 12px;
+				border-bottom: solid 1px #ccc; 
+			}
+		}
+	}
+
+	#wrapper{
+		position: absolute;
+		top:48px;
+		left:0px;
+		bottom: 0px;
+		width: 100%;
+		
+		.menu{
+			// min-height: 492px;
+			overflow: hidden;
+			>.products{
+				background-color: white;
+				margin: 2px;
+				width: 48%;
+				float: left;
+				display: block;
+				img{
+					width: 100%
+				}
+
+				p{
+					display: block;
+					text-overflow:ellipsis;
+					white-space: nowrap;
+					overflow: hidden;
+					padding: 2px;
+					color:black;
+				}
+				span{
+					color:red;
+				}
+			}
+		}
+	}
+
+}
+
+footer{
+	a{
+		width: 25%;
+		float: left;
+		color:white;
+		text-align: center;
+		font-size: 25px;
+		display: block;
+		p{
+			font-size: 12px;
+			margin-top:-5px; 
+		}
+	}
+}
+

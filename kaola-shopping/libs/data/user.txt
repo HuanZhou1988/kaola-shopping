@@ -1,0 +1,7 @@
+[
+	{"id":"1","user":"true","src":"libs/dist/image/detail/18.jpg","rank":"黄金会员","name":"6666666666","cash":"1000","daibi":"500","avail":"100","one":"9","two":"10","three":"20"},
+	{"id":"2","user":"true","src":"libs/dist/image/detail/18.jpg","rank":"普通会员","name":"777777777","cash":"1000","daibi":"500","avail":"100","one":"9","two":"10","three":"20"},
+	{"id":"3","user":"true","src":"libs/dist/image/detail/18.jpg","rank":"黄钻会员","name":"888888888","cash":"1000","daibi":"500","avail":"100","one":"9","two":"10","three":"20"},
+	{"id":"4","user":"true","src":"libs/dist/image/detail/18.jpg","rank":"红钻会员","name":"999999999","cash":"1000","daibi":"500","avail":"100","one":"9","two":"10","three":"20"},
+	{"id":"5","user":"true","src":"libs/dist/image/detail/18.jpg","rank":"蓝钻会员","name":"111111111","cash":"1000","daibi":"500","avail":"100","one":"9","two":"10","three":"20"},
+]

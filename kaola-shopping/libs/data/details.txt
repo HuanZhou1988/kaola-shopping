@@ -1,0 +1,66 @@
+{
+		"lunbo2":[
+			{"id":"1","src":"libs/dist/image/index/1.jpg","index":"true","lunbo":"true"},
+			{"id":"1","src":"libs/dist/image/index/2.jpg","index":"true","lunbo":"true"},
+			{"id":"1","src":"libs/dist/image/index/10.jpg","index":"true","lunbo":"true"}
+		],
+		"detail":[
+		{"id":"1","class":"products","src":"libs/dist/image/product/54.jpg","content":"拱辰享雪美白精华套装","price":"123","flag":"copy"},
+		{"id":"2","class":"products","src":"libs/dist/image/product/55.jpg","content":"拱辰享雪美白精华套装","price":"123","flag":"copy"},
+		{"id":"3","class":"products","src":"libs/dist/image/product/56.jpg","content":"拱辰享雪美白精华套装","price":"123","flag":"copy"},
+		{"id":"4","class":"products","src":"libs/dist/image/product/57.jpg","content":"拱辰享雪美白精华套装","price":"123","flag":"copy"},
+		{"id":"5","class":"products","src":"libs/dist/image/product/58.jpg","content":"拱辰享雪美白精华套装","price":"120","flag":"copy"},
+		{"id":"6","class":"products","src":"libs/dist/image/product/59.jpg","content":"拱辰享雪美白精华套装","price":"212","flag":"copy"},
+
+		{"id":"7","class":"products","src":"libs/dist/image/product/54.jpg","content":"拱辰享雪美白精华套装","price":"323","flag":"copy"},
+		{"id":"8","class":"products","src":"libs/dist/image/product/55.jpg","content":"拱辰享雪美白精华套装","price":"513","flag":"copy"},
+		{"id":"9","class":"products","src":"libs/dist/image/product/56.jpg","content":"拱辰享雪美白精华套装","price":"323","flag":"copy"},
+		{"id":"10","class":"products","src":"libs/dist/image/product/57.jpg","content":"拱辰享雪美白精华套装","price":"913","flag":"copy"},
+		{"id":"11","class":"products","src":"libs/dist/image/product/58.jpg","content":"拱辰享雪美白精华套装","price":"623","flag":"copy"},
+		{"id":"12","class":"products","src":"libs/dist/image/product/59.jpg","content":"拱辰享雪美白精华套装","price":"113","flag":"copy"},
+
+		{"id":"13","class":"products","src":"libs/dist/image/product/54.jpg","content":"拱辰享雪美白精华套装","price":"213","flag":"copy"},
+		{"id":"14","class":"products","src":"libs/dist/image/product/55.jpg","content":"拱辰享雪美白精华套装","price":"323","flag":"copy"},
+		{"id":"15","class":"products","src":"libs/dist/image/product/56.jpg","content":"拱辰享雪美白精华套装","price":"423","flag":"copy"},
+		{"id":"16","class":"products","src":"libs/dist/image/product/57.jpg","content":"拱辰享雪美白精华套装","price":"623","flag":"copy"},
+		{"id":"17","class":"products","src":"libs/dist/image/product/58.jpg","content":"拱辰享雪美白精华套装","price":"723","flag":"copy"},
+		{"id":"18","class":"products","src":"libs/dist/image/product/59.jpg","content":"拱辰享雪美白精华套装","price":"123","flag":"copy"},
+
+		{"id":"19","class":"products","src":"libs/dist/image/product/54.jpg","content":"拱辰享雪美白精华套装","price":"523","flag":"copy"},
+		{"id":"20","class":"products","src":"libs/dist/image/product/55.jpg","content":"拱辰享雪美白精华套装","price":"723","flag":"copy"},
+		{"id":"21","class":"products","src":"libs/dist/image/product/56.jpg","content":"拱辰享雪美白精华套装","price":"523","flag":"copy"},
+		{"id":"22","class":"products","src":"libs/dist/image/product/57.jpg","content":"拱辰享雪美白精华套装","price":"223","flag":"copy"},
+		{"id":"23","class":"products","src":"libs/dist/image/product/58.jpg","content":"拱辰享雪美白精华套装","price":"523","flag":"copy"},
+		{"id":"24","class":"products","src":"libs/dist/image/product/59.jpg","content":"拱辰享雪美白精华套装","price":"523","flag":"copy"},
+		],
+
+		"text":[
+			{"id":"1","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"5","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			{"id":"2","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"3","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			{"id":"3","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"5","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			{"id":"4","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"4","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			{"id":"5","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"2","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			{"id":"6","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"5","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			
+			{"id":"7","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"1","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			{"id":"8","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"5","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			{"id":"9","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"5","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			{"id":"10","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"5","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			{"id":"11","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"5","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			{"id":"12","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"5","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			
+			{"id":"13","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"5","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			{"id":"14","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"5","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			{"id":"15","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"5","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			{"id":"16","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"5","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			{"id":"17","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"5","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			{"id":"18","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"5","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			
+			{"id":"19","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"5","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			{"id":"20","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"5","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			{"id":"21","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"5","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			{"id":"22","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"5","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			{"id":"23","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"5","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+			{"id":"24","src":"libs/dist/image/detail/18.jpg","name":"匿名","time":"2016-05-16 12:00","red":"5","cont":"真心好，下次还会再来买","gray":"购买日期：2016-05-10 14:00"},
+		]
+	}

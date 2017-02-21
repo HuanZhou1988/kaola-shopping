@@ -1,0 +1,238 @@
+header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 50px;
+  right: 0;
+  background-color: #8E488E;
+  text-align: center;
+  line-height: 50px;
+  color: white;
+  font-size: 20px; }
+  header > .them {
+    display: none;
+    position: absolute;
+    right: 10px;
+    background-color: gray;
+    opacity: 0.8;
+    z-index: 100;
+    top: 64px;
+    border-radius: 4px; }
+    header > .them > li > a {
+      display: block;
+      font-size: 12px;
+      line-height: 20px;
+      text-align: left;
+      padding: 8px 45px 8px 25px;
+      color: white; }
+    header > .them > li {
+      position: relative; }
+    header > .them > li:not(.abclast)::after {
+      content: "";
+      display: block;
+      height: 1px;
+      width: 100%;
+      background-color: white;
+      transform: scaleY(0.5);
+      position: absolute;
+      bottom: 0px; }
+  header > .them::after {
+    content: "";
+    border-style: solid;
+    display: block;
+    border-width: 10px;
+    border-color: transparent transparent gray transparent;
+    position: absolute;
+    right: 11px;
+    top: -19px; }
+
+article {
+  position: absolute;
+  top: 50px;
+  left: 0px;
+  right: 0px;
+  bottom: 50px;
+  overflow: hidden;
+  background-color: #eee; }
+
+footer {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 50px;
+  background-color: #8E488E;
+  display: flex;
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: -moz-flex; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+p {
+  margin: 0; }
+
+ul, li {
+  list-style: none; }
+
+html, body {
+  width: 100%;
+  height: 100%; }
+
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both; }
+
+.clearfix {
+  zoom: 1; }
+
+a {
+  text-decoration: none;
+  color: black; }
+
+a:hover {
+  text-decoration: none; }
+
+a:visited, a:active, a:link {
+  color: white; }
+
+.mask {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  opacity: .3;
+  background: #000;
+  z-index: 99;
+  display: none; }
+
+.mask > i {
+  font-size: 38px;
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff; }
+
+header > i {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%); }
+
+header > .topgo {
+  left: 10px; }
+
+header > i.toplist {
+  right: 10px; }
+
+article .fix {
+  width: 100%;
+  height: 48px;
+  position: fixed;
+  top: 50px;
+  left: 0;
+  z-index: 3;
+  background-color: #eee;
+  line-height: 48px;
+  border-bottom: solid 1px #ccc; }
+  article .fix > div {
+    position: relative;
+    line-height: 48px;
+    text-align: center;
+    font-size: 12px; }
+    article .fix > div > i {
+      padding-left: 5px; }
+  article .fix > div:not(.abc)::after {
+    display: block;
+    content: "";
+    width: 1px;
+    height: 30px;
+    background-color: black;
+    transform: scaleX(0.4);
+    position: absolute;
+    top: 9px;
+    right: 0px; }
+
+article .classify {
+  position: absolute;
+  top: 48px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  background-color: white;
+  display: none; }
+  article .classify .goods {
+    width: 100%;
+    height: 100%; }
+    article .classify .goods > div {
+      height: 100%;
+      padding: 0px; }
+    article .classify .goods > div:nth-child(1) {
+      background-color: #eaeaea; }
+      article .classify .goods > div:nth-child(1) li {
+        line-height: 30px;
+        padding-left: 5px;
+        font-size: 12px; }
+      article .classify .goods > div:nth-child(1) li:first-child {
+        background-color: #f2f2f2; }
+    article .classify .goods > div:nth-child(2) {
+      background-color: #f2f2f2; }
+      article .classify .goods > div:nth-child(2) li {
+        line-height: 30px;
+        padding-left: 5px;
+        font-size: 12px; }
+      article .classify .goods > div:nth-child(2) li:not(.first) {
+        display: none; }
+  article .classify .brand {
+    width: 100%;
+    height: 100%;
+    background-color: #eaeaea;
+    display: none; }
+    article .classify .brand ul > li {
+      line-height: 35px;
+      text-align: center;
+      font-size: 12px;
+      border-bottom: solid 1px #ccc; }
+
+article #wrapper {
+  position: absolute;
+  top: 48px;
+  left: 0px;
+  bottom: 0px;
+  width: 100%; }
+  article #wrapper .menu {
+    overflow: hidden; }
+    article #wrapper .menu > .products {
+      background-color: white;
+      margin: 2px;
+      width: 48%;
+      float: left;
+      display: block; }
+      article #wrapper .menu > .products img {
+        width: 100%; }
+      article #wrapper .menu > .products p {
+        display: block;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+        padding: 2px;
+        color: black; }
+      article #wrapper .menu > .products span {
+        color: red; }
+
+footer a {
+  width: 25%;
+  float: left;
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  display: block; }
+  footer a p {
+    font-size: 12px;
+    margin-top: -5px; }

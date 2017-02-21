@@ -1,0 +1,39 @@
+
+{
+	"list":{
+		"classify":{
+			"goods":["分类1","分类2","分类3","分类4","分类5"],
+			"product":["分类1","分类2","分类3","分类4","分类5"],
+			"brand":["品牌1","分类2","分类3","分类4","分类5"]
+		},
+		"wrapper" :[
+					{"id":"1","class":"products","src":"libs/dist/image/product/54.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+					{"id":"2","class":"products","src":"libs/dist/image/product/55.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+					{"id":"3","class":"products","src":"libs/dist/image/product/56.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+					{"id":"4","class":"products","src":"libs/dist/image/product/57.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+					{"id":"5","class":"products","src":"libs/dist/image/product/58.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+					{"id":"6","class":"products","src":"libs/dist/image/product/59.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+
+					{"id":"1","class":"products","src":"libs/dist/image/product/54.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+					{"id":"2","class":"products","src":"libs/dist/image/product/55.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+					{"id":"3","class":"products","src":"libs/dist/image/product/56.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+					{"id":"4","class":"products","src":"libs/dist/image/product/57.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+					{"id":"5","class":"products","src":"libs/dist/image/product/58.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+					{"id":"6","class":"products","src":"libs/dist/image/product/59.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+
+					{"id":"1","class":"products","src":"libs/dist/image/product/54.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+					{"id":"2","class":"products","src":"libs/dist/image/product/55.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+					{"id":"3","class":"products","src":"libs/dist/image/product/56.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+					{"id":"4","class":"products","src":"libs/dist/image/product/57.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+					{"id":"5","class":"products","src":"libs/dist/image/product/58.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+					{"id":"6","class":"products","src":"libs/dist/image/product/59.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+
+					{"id":"1","class":"products","src":"libs/dist/image/product/54.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+					{"id":"2","class":"products","src":"libs/dist/image/product/55.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+					{"id":"3","class":"products","src":"libs/dist/image/product/56.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+					{"id":"4","class":"products","src":"libs/dist/image/product/57.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+					{"id":"5","class":"products","src":"libs/dist/image/product/58.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+					{"id":"6","class":"products","src":"libs/dist/image/product/59.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy"},
+				]
+	}
+}

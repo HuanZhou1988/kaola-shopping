@@ -1,0 +1,56 @@
+	{
+		"lunbo":[
+			{"id":"1","src":"libs/dist/image/index/1.jpg","index":"true","lunbo":"true"},
+			{"id":"1","src":"libs/dist/image/index/2.jpg","index":"true","lunbo":"true"},
+			{"id":"1","src":"libs/dist/image/index/10.jpg","index":"true","lunbo":"true"}
+		],
+		"list":[
+		{"id":"1","class":"col-xs-12","src":"libs/dist/image/index/49.jpg","index":"true"},
+		{"id":"2","class":"col-xs-12","src":"libs/dist/image/index/31.jpg","index":"true"},
+		{"id":"3","class":"col-xs-6","src":"libs/dist/image/index/27.jpg","index":"true"},
+		{"id":"4","class":"col-xs-6","src":"libs/dist/image/index/28.jpg","index":"true"},
+		{"id":"5","class":"col-xs-6","src":"libs/dist/image/index/29.jpg","index":"true"},
+		{"id":"6","class":"col-xs-6","src":"libs/dist/image/index/30.jpg","index":"true"},
+		{"id":"7","class":"col-xs-6","src":"libs/dist/image/index/32.jpg","index":"true"},
+		{"id":"8","class":"col-xs-6","src":"libs/dist/image/index/34.jpg","index":"true"},
+		{"id":"9","class":"col-xs-12","src":"libs/dist/image/index/50.jpg","index":"true"},
+		{"id":"10","class":"col-xs-12","src":"libs/dist/image/index/51.jpg","index":"true"},
+		{"id":"11","class":"col-xs-12","src":"libs/dist/image/index/52.jpg","index":"true"},
+		{"id":"12","class":"col-xs-12","src":"libs/dist/image/index/53.jpg","index":"true"},
+		{"id":"13","class":"col-xs-12","src":"libs/dist/image/index/26.jpg","index":"true"},
+
+		{"id":"14","class":"col-xs-12","src":"libs/dist/image/index/1.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"15","class":"col-xs-12","src":"libs/dist/image/index/2.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"16","class":"col-xs-12","src":"libs/dist/image/index/3.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"17","class":"col-xs-12","src":"libs/dist/image/index/5.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"18","class":"col-xs-12","src":"libs/dist/image/index/6.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"19","class":"col-xs-12","src":"libs/dist/image/index/7.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"20","class":"col-xs-12","src":"libs/dist/image/index/8.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"21","class":"col-xs-12","src":"libs/dist/image/index/9.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"22","class":"col-xs-12","src":"libs/dist/image/index/10.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"23","class":"col-xs-12","src":"libs/dist/image/index/4.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+
+		{"id":"14","class":"col-xs-12","src":"libs/dist/image/index/1.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"15","class":"col-xs-12","src":"libs/dist/image/index/2.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"16","class":"col-xs-12","src":"libs/dist/image/index/3.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"17","class":"col-xs-12","src":"libs/dist/image/index/5.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"18","class":"col-xs-12","src":"libs/dist/image/index/6.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"19","class":"col-xs-12","src":"libs/dist/image/index/7.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"20","class":"col-xs-12","src":"libs/dist/image/index/8.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"21","class":"col-xs-12","src":"libs/dist/image/index/9.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"22","class":"col-xs-12","src":"libs/dist/image/index/10.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"23","class":"col-xs-12","src":"libs/dist/image/index/4.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+
+		{"id":"24","class":"col-xs-12","src":"libs/dist/image/index/1.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"25","class":"col-xs-12","src":"libs/dist/image/index/2.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"26","class":"col-xs-12","src":"libs/dist/image/index/3.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"27","class":"col-xs-12","src":"libs/dist/image/index/5.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"28","class":"col-xs-12","src":"libs/dist/image/index/6.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"29","class":"col-xs-12","src":"libs/dist/image/index/7.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"30","class":"col-xs-12","src":"libs/dist/image/index/8.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"31","class":"col-xs-12","src":"libs/dist/image/index/9.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"32","class":"col-xs-12","src":"libs/dist/image/index/10.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"},
+		{"id":"33","class":"col-xs-12","src":"libs/dist/image/index/4.jpg","content":"拱辰享雪美白精华套装","price":"￥123","flag":"copy","index":"true"}
+		
+		]
+	}

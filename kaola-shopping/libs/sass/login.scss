@@ -1,0 +1,56 @@
+@import 'reset';
+@import 'common';
+header{
+	>i{
+		position: absolute;
+		top:50%;
+		transform:translateY(-50%);
+	}
+	>.topgo{
+		left: 10px;
+	}
+	>i.toplist{
+		right: 10px;
+	}
+}
+
+article{
+	background-color: white;
+	ul{
+		background-color: white;
+		padding:20px 10px 10px;
+		>li{
+			position: relative;
+			padding-bottom: 20px;
+			>.input{
+				.control{
+		    		border-left: none;
+				    box-shadow: none;
+				    outline: none;
+				    border-color: #ccc;
+		    	}
+			}
+		}
+		>li:last-child{
+			>a{
+				color:orange;
+				text-decoration: underline;
+			}
+		}
+	}
+}
+
+footer{
+	a{
+		width: 25%;
+		float: left;
+		color:white;
+		text-align: center;
+		font-size: 25px;
+		display: block;
+		p{
+			font-size: 12px;
+			margin-top:-5px; 
+		}
+	}
+}
